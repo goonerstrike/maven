@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
  
-<Context path="/IFPWAFCAD">
+<Context path="/maven">
     <Resource name="jdbc/IFPWAFCAD" auth="Container" type="javax.sql.DataSource"
         maxActive="100" maxIdle="30" maxWait="10000"
         username="root" password="nbuser" driverClassName="com.mysql.jdbc.Driver"
