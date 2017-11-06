@@ -1,4 +1,4 @@
 #!/bin/sh
-sed -i 's/DATABASE_NAME/MyNewDatabase/g' /deployments/ROOT/WEB-INF/web.xml
+sed -i 's/JDBC_NAME/IFPWAFCAD/g' /deployments/ROOT/WEB-INF/web.xml
 exec $JWS_HOME/bin/launch.sh
 
