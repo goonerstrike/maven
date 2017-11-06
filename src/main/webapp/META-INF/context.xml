@@ -4,5 +4,5 @@
     <Resource name="jdbc/IFPWAFCAD" auth="Container" type="javax.sql.DataSource"
         maxActive="100" maxIdle="30" maxWait="10000"
         username="admin" password="nbuser" driverClassName="com.mysql.jdbc.Driver"
-        url="jdbc:mysql://cx-test01.sd.spawar.navy.mil:3306/MyNewDatabase"/>
+        url="jdbc:mysql://cx-test02.sd.spawar.navy.mil:3306/MyNewDatabase"/>
 </Context>
