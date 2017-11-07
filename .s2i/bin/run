@@ -1,4 +1,3 @@
 #!/bin/sh
 sed -i 's/JDBC_NAME/IFPWAFCAD/g' /opt/webserver/webapps/ROOT/WEB-INF/web.xml
 exec $JWS_HOME/bin/launch.sh
-
