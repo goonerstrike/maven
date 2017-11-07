@@ -1,5 +1,6 @@
 #!/bin/sh
-. $(dirname $0)/common.sh
+#. $(dirname $0)/common.sh
+./common.sh
 . /opt/rh/rh-maven33/enable
 
 LOCAL_SOURCE_DIR=/tmp/src
