@@ -1,5 +1,4 @@
 #!/bin/sh
-sed -i 's/JDBC_NAME/IFPWAFCAD/g' /opt/webserver/webapps/ROOT/WEB-INF/web.xml
 . $(dirname $0)/common.sh
 . /opt/rh/rh-maven33/enable
 
